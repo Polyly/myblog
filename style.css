@@ -1,0 +1,16 @@
+img{
+    width: 50%;
+    height: 50%;
+}
+
+div{
+    color:darkslategrey;
+    border-color: darkolivegreen;
+    border-collapse: collapse;
+   background-color: burlywood;
+    padding: 10px;
+}
+
+body{
+    background-color: darkseagreen;
+}
